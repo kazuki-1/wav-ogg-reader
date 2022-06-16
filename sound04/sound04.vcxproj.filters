@@ -26,5 +26,8 @@
     <ClInclude Include="FileAnalyzer.h">
       <Filter>ソース ファイル</Filter>
     </ClInclude>
+    <ClInclude Include="SoundCapturer.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
